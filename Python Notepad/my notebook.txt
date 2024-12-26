@@ -1,0 +1,2 @@
+
+"My Notepad is a simple text editor built with Python's Tkinter library. It allows users to create, open, and save text files effortlessly. Designed with a clean and user-friendly interface, it's perfect for quick notes or editing tasks. Future updates include themes and search functionality. Try it out and enhance your productivity with this lightweight tool!"
